@@ -18,7 +18,7 @@ This challenge provides a way to visualize USGS data that will allow them to bet
 
 ![Alaska earthquake](https://user-images.githubusercontent.com/119769357/230465913-45d84c57-3900-4b61-a128-301627d9c363.png)
 
-## Part 2 - gathering more data to plot
+## Part 2 - Gathering more data to plot
 
 - Adding a layer showing the tectonic plates on the map
 - Layer toggling is possible by choosing the layer in the box situated in the upper right corner of the map.
