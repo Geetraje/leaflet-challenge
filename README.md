@@ -29,5 +29,6 @@ This challenge provides a way to visualize USGS data that will allow them to bet
 ![Outdoor](https://user-images.githubusercontent.com/119769357/230520686-6a0e0eaa-77bb-41e4-b875-61401df51ca6.png)
 
 ## References
-Dataset created by the [United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
-
+- Dataset created by the [United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+- Stack overflow
+- Leaflet documentation
